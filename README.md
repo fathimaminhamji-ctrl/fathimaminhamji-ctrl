@@ -87,8 +87,6 @@ Passion    : Where creativity meets technology ✨
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathimaminhamji-ctrl&show_icons=true&theme=radical&title_color=f5576c&icon_color=fda085&text_color=ffffff&bg_color=0d0d0d&border_color=f5576c&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathimaminhamji-ctrl&layout=compact&theme=radical&title_color=f5576c&text_color=ffffff&bg_color=0d0d0d&border_color=f5576c)
-
 ![Streak](https://streak-stats.demolab.com?user=fathimaminhamji-ctrl&theme=radical&background=0d0d0d&border=f5576c&ring=fda085&fire=f5576c&currStreakLabel=f5576c)
 
 </div>
