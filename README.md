@@ -90,7 +90,26 @@ Passion    : Where creativity meets technology
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fathimaminhamji-ctrl&style=for-the-badge&color=f5576c&label=PROFILE+VIEWS)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathimaminhamji-ctrl&show_icons=true&theme=radical&title_color=f5576c&icon_color=fda085&text_color=ffffff&bg_color=0d0d0d&border_color=f5576c&hide_border=false&count_private=true)
+<br/>
+
+| 🎨 Designs Created | 🤖 AI Tools Mastered | 📱 Brands Worked With | 🚀 Months as Founder |
+|:---:|:---:|:---:|:---:|
+| 50+ | 10+ | 5+ | 2 |
+
+<br/>
+
+```
+Creative Journey Progress
+
+Graphic Design        ████████████████████  100%
+Branding              ████████████████░░░░   80%
+AI Video Editing      ███████████████░░░░░   75%
+Social Media Design   ████████████████████  100%
+Motion Design         ████████████░░░░░░░░   60%
+Economics Knowledge   █████████████░░░░░░░   65%
+```
+
+<br/>
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=fathimaminhamji-ctrl&theme=radical&no-frame=true&row=1&column=6&margin-w=10)
 
