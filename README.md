@@ -113,6 +113,10 @@ Economics Knowledge   █████████████░░░░░░�
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=fathimaminhamji-ctrl&theme=radical&no-frame=true&row=1&column=6&margin-w=10)
 
+<br/>
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=fathimaminhamji-ctrl&theme=redical&bg_color=0d0d0d&color=fda085&line=f5576c&point=ffffff&area=true&hide_border=false)
+
 </div>
 
 ---
