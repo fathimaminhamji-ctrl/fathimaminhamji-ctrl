@@ -4,9 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:f5576c,100:fda085&height=200&section=header&text=Fathima%20Minha%20VK&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Graphic%20Designer%20%7C%20AI%20Content%20Creator%20%7C%20BA%20Economics&descAlignY=58&descColor=ffe0f0&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5576C&center=true&vCenter=true&width=600&lines=✨+Designing+the+Digital+World;🎨+Branding+%26+Visual+Storytelling;🤖+AI-Powered+Creative+Content;📊+Economics+meets+Creativity;🚀+Founder+%40+Minha+Motion" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5576C&center=true&vCenter=true&width=600&lines=Designing+the+Digital+World+%E2%9C%A8;Branding+%26+Visual+Storytelling+%F0%9F%8E%A8;AI-Powered+Creative+Content+%F0%9F%A4%96;Economics+meets+Creativity+%F0%9F%93%8A;Founder+%40+Minha+Motion+%F0%9F%9A%80;she%2Fher+%7C+Kerala%2C+India+%F0%9F%8C%BF" alt="Typing SVG" />
 
 <br/>
 
@@ -87,9 +85,11 @@ Passion    : Where creativity meets technology ✨
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathimaminha-vk&show_icons=true&theme=radical&title_color=f5576c&icon_color=fda085&text_color=ffffff&bg_color=0d0d0d&border_color=f5576c&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathimaminhamji-ctrl&show_icons=true&theme=radical&title_color=f5576c&icon_color=fda085&text_color=ffffff&bg_color=0d0d0d&border_color=f5576c&hide_border=false)
 
-![Streak](https://streak-stats.demolab.com?user=fathimaminha-vk&theme=radical&background=0d0d0d&border=f5576c&ring=fda085&fire=f5576c&currStreakLabel=f5576c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathimaminhamji-ctrl&layout=compact&theme=radical&title_color=f5576c&text_color=ffffff&bg_color=0d0d0d&border_color=f5576c)
+
+![Streak](https://streak-stats.demolab.com?user=fathimaminhamji-ctrl&theme=radical&background=0d0d0d&border=f5576c&ring=fda085&fire=f5576c&currStreakLabel=f5576c)
 
 </div>
 
