@@ -16,12 +16,17 @@
 
 ## 🌸 About Me
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F5576C&center=true&vCenter=true&width=600&lines=Graphic+Designer+%26+AI+Content+Creator;Founder+of+Minha+Motion;BA+Economics+Student+%282024-2028%29;Branding+%7C+Posters+%7C+Social+Media;She%2FHer+%7C+Malappuram%2C+Kerala+%F0%9F%8C%BF" alt="About Me Typing" />
+</div>
+
 ```yaml
 Name       : Fathima Minha VK
+She / Her  : she/her
 Role       : Graphic Designer | AI Content Creator | Founder
-Education  : BA Economics @ Sullamussalam Science College Areekode (2024–2028)
-Venture    : Minha Motion — Founded April 2026
-Passion    : Where creativity meets technology ✨
+Education  : BA Economics @ Sullamussalam Science College Areekode (2024-2028)
+Venture    : Minha Motion - Founded April 2026
+Passion    : Where creativity meets technology
 ```
 
 > *"Creating modern visuals that combine creativity with meaningful storytelling."*
@@ -62,16 +67,17 @@ Passion    : Where creativity meets technology ✨
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║                   🎬 MINHA MOTION                        ║
-║                                                          ║
-║  📍 Malappuram, Kerala   📅 Founded: April 2026          ║
-║                                                          ║
-║  ✦ Branding & Social Media Creatives                     ║
-║  ✦ AI-Powered Video Editing                              ║
-║  ✦ Poster & Digital Content Design                       ║
-║  ✦ Visual Storytelling for Brands                        ║
-╚══════════════════════════════════════════════════════════╝
++----------------------------------------------------------+
+|                     MINHA MOTION                         |
+|                                                          |
+|   Location : Malappuram, Kerala                          |
+|   Founded  : April 2026                                  |
+|                                                          |
+|   * Branding & Social Media Creatives                    |
+|   * AI-Powered Video Editing                             |
+|   * Poster & Digital Content Design                      |
+|   * Visual Storytelling for Brands                       |
++----------------------------------------------------------+
 ```
 
 </div>
@@ -95,11 +101,11 @@ Passion    : Where creativity meets technology ✨
 ## 🌟 What I'm Currently Up To
 
 ```
-🎓 Studying    → BA Economics (Year 1 of 4)
-🏢 Building    → Minha Motion — creative design studio
-🤖 Exploring   → Latest AI design & video tools
-📱 Creating    → Social media content & branding projects
-📚 Learning    → Advanced branding & motion design
+[Studying]   BA Economics (Year 1 of 4)
+[Building]   Minha Motion - creative design studio
+[Exploring]  Latest AI design & video tools
+[Creating]   Social media content & branding projects
+[Learning]   Advanced branding & motion design
 ```
 
 ---
